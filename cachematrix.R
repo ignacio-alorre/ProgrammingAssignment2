@@ -1,6 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+#1- set the value of the vector
+#2- get the value of the vector
+#3- set the value of the mean
+#4- get the value of the mean
+
 #This function generates an object which contains a matrix and its inverse
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
